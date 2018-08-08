@@ -1,1 +1,1 @@
-my first python program
+This code is created from win system
